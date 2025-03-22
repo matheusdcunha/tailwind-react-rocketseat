@@ -1,3 +1,3 @@
 # TailWind React
 
-Update
+Updates
